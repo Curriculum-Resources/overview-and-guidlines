@@ -1,11 +1,7 @@
-
 # Outline
 ## Curriculum
 
-
-
-Following is brief attempt at a breakdown of the curriculum of WDI.
-
+The following is brief attempt at a breakdown of the current curriculum of WDI.
 
 ### Stages
 
@@ -15,83 +11,106 @@ There are three main stages of the course
 
 
 * Weeks 1-4
-	* Focus on Web Dev Fundamentals
+	* programming fundamentals
+	* web application development
 * Weeks 6-8
-	* Focus on Resourcefulness
-		* Building Review skills
-		* Research Skills
-		* Group Development
+	* resourcefulness
+		* review study skills
+		* research skills
+		* team skills
 * Weeks 10-11
-	* Independence
-		* Creating more advanced applications
-		* Creating more student project time  
+	* independence
+    * interview preparation
+		* advanced applications
+		* project time
 		
-### Week By Week 
-   * Week 1:
-       * Command Line and Intro Quiz
-       * Git Basics
-       * DOM and Intro JS
-       * CSS
-       * Project:
-           * link: [Tic-Tac-Toe: Vanilla JS](https://github.com/wdi-sf-july/tictactoe_js)
+### Week By Week Breakdown
 
-       * CS:
-           * Merge Two Sorted Arrays
-           * Palindrome
-   * Week 2:
-       * Iterators TDD
-           * Mocha, Chai
-       * Higher Order Functions 
-       * Prototypes and Inheritance Klassical
-       * OOP
-       * Project
-           * link: [Apartment Lab](https://github.com/wdi-sf-july/apartment_lab)
-       * CS:
-           * Fibonacci
-           * MergeSort
-           * Big O notation
-   * Week 3:
-       * Intro Express, CRUD
-           * Middleware
+#### Terms 
+
+* **SWBAT**: stands for "Students Will Be Able To."
+* **Common Assessment**: a direct assessment used as a standard across instances of WDI running in parallel.
+* **CS Core**: a technical minimum of problem solving abilities or techniques that should be demostrated by each student.
+
+
+
+   * **Week 1**
+       * **SWBAT**:
+         * demonstrate basic command line familiarity
+         * perform basic git and GitHub tasks
+         * explain and manipulate DOM
+         * develp basic javascript client applications
+         * identify and employ course tools: package managers, etc
+         * use CSS
+       * **Common Assessment**:
+           * [Tic-Tac-Toe: Vanilla JS](https://github.com/wdi-sf-july/tictactoe_js)
+       * **CS Core**:
+           * merge two sorted arrays
+           * palindrome
+   * **Week 2**
+       * **SWBAT**:
+	       * practice and implement iterator patterns
+	       * examine and practice TDD
+	           * Mocha with Chai assertions
+	       * describe and apply higher order functions 
+	       * prototypes and Klassical Inheritance
+	       * develop using OOP and object relationships
+       * **Common Assessment**:
+           * [Apartment Lab](https://github.com/wdi-sf-july/apartment_lab)
+       * **CS Core**:
+           * fibonacci
+           * merge-sort
+           * big O notation
+   * **Week 3**
+       *  **SWBAT**:
+	   	   * identify an Express application and its components
+	   	   * implement a CRUD web application for a resource
+	   	   * utilize middleware for an application
                * templating `ejs`
                * body-parser (body params)
                * method-override 
-       * Intro SQL Selections, Relationships, and JOINS
-       * DB Modeling
-       * Project:
-           * link: [Implement ORM for a TABLE](https://github.com/wdi-sf-july/node_postgres_orm)
-       * CS:
+	       * describe and implement SQL Selections, Relationships, and JOINS
+	       * describe and implement DB modeling (ORM) for a single table
+       * **Common Assessment**:
+           * [Implement ORM for a TABLE](https://github.com/wdi-sf-july/node_postgres_orm)
+       * **CS Core**:
            * BinarySearch
-   * Week 4:
-       * Intro to Sequelize and Model Relationships
-           * one-to-one, many-to-one, many-to-many
-       * Intro to Authentication Authorization
-       * Intro to Passport
-       * Intro to Bootstrap
-       * Project:
-       	 * None Working on Project 1
-   * Week 5:
+   * **Week 4**:
+       *  **SWBAT**:
+	       * describe and utilize Sequelize and model relationships
+	           * one-to-one, many-to-one, many-to-many
+	       * describe and implement Authentication and Authorization
+	       		* intro to bcrypt
+	       * utilize auth tools: passport
+	       * utilize Bootstrap
+       * **Common Assessment**:
+       		* None Working on Project 1
+       * **CS Core**:
+           * review
+   * **Week 5** (little to no lecturing):
        * Review
-       * Request Specs
+       * Discuss Request Specs
        * Heroku Deployment
        * Project 1
        	 * Submissions:
        	 	* [Picture It Now](https://github.com/ranleung/picture_it_now)
        	 	* [Globe Tweet](https://github.com/cameronjacoby/globe_tweet)
-   * Week 6:
-       * Intro Ruby and Methods
-       * Classes and Inheritance
-       * Nokogiri
-       * RSpec
-       * Project:
-           * Independent Projects to encourage research
+   * **Week 6**:
+       *  **SWBAT**:
+       	   * compare and contrast Ruby and Javascript
+	       * identify and use Ruby control flow and methods
+	       * implement and describe classes and inheritance
+	       * possible: Nokogiri Intro
+	       * compare and contrast RSpec with Mocha-Chai testing
+       * **Common Assessment**:
+           * open ended client-side projects to encourage research and discovery
            * Submissions:
              * [Flux Clock](https://github.com/cameronjacoby/flux_clock)
              * [Birds Life](https://github.com/marklc44/birds-life)
              * [PhysBox](https://github.com/MooreJesseB/physbox)
              * [Springy](https://github.com/lisavogtsf/long_weekend_lab)
            
-       * CS:
+       * **CS Core**:
            * [Intro Linked List](https://github.com/wdi-sf-july/singly_linked_list_ruby)
        
    * Week 7:
