@@ -102,6 +102,9 @@ There are three main stages of the course
 	       * implement and describe classes and inheritance
 	       * possible: Nokogiri Intro
 	       * compare and contrast RSpec with Mocha-Chai testing
+	       * intro to Rails MVC application structure
+	       * use an API
+	       * implement and use simple models and commmon ActiveRecord relationships 
        * **Common Assessment**:
            * open ended client-side projects to encourage research and discovery
            * Submissions:
@@ -112,62 +115,76 @@ There are three main stages of the course
            
        * **CS Core**:
            * [Intro Linked List](https://github.com/wdi-sf-july/singly_linked_list_ruby)
+           * utilize CSV's and ruby file-io to change data formatting.
+           * intro blocks, procs, and lambdas vs. js functions talk
        
-   * Week 7:
-       * Presentations
-       * Intro Rails MVC
-       * ActiveRecord Relationships 
-       * Resources and Nested Resources
-       * RSpec
-           * Controller and Model specs
-       * Project:
+   * **Week 7**:
+       *  **SWBAT**:
+	       * implement and use complex ActiveRecord relationships
+	       * utilize seed data and factories
+	       * identify and apply RESTful and nested resources in Rails
+	       * utilize partials for modular views and nested views
+	       * application testing with RSPEC
+	            * Controller and Model specs
+	       * discuss and apply authentication in a Rails application
+	       * discuss mailers and password reset
+       * **Common Assessment**:
            * [Group Implementation of MicroBlog](https://github.com/wdi-sf-july/micro_blog)
 
-       * CS:
+       * **CS Core**:
            * [More Linked List](https://github.com/wdi-sf-july/singly_linked_list_ruby)
+           * dicuss and apply simple meta-programming in ruby
        
-   * Week 8:
-       * Presentations
-       * Authentication
-       * Mailers
-       * AJAX JSON API 
-       * Templating
-   * Week 9
+   * **Week 8**:
+       *  **SWBAT**:
+	       * implement and discuss a RESTful JSON API in RAILS
+	       		* utilize eager loading 
+	       * utilize jQuery to retrieve and update data on a server
+	       * utilize templating for dynamically updating content on the client-side
+	       * implement a persistent Todo application Javascript with jQuery
+	   * **Common Assessment**:
+	   		* project 2
+	   * **CS Core**:
+	   		* discuss token vs cookie based strategies
+	   		* discuss state in an client-side application
+   * **Week 9**
        * Heroku Deployment
        * Project 2 Group 
-       * 
-   * Week 10
-       * Interview Prep
-           * [Vocabularly Building](https://github.com/wdi-sf-july/WDI-vocab)
-           * Doubly Linked List TDD
-           * Binary Search Tree TDD
-           * Trie TDD: Autocomplete Lab
-       * Factory Girl
-       * Controller Specs
-           * Double, Mocks, and Stubs
-       * SideKiq/Redis
-       * Coffeescript
-       * Intro Angular with Rails
-           * views
-           * controllers
-           * modules
-           * http
-       * Project
+       * Asset pipeline discussion
+   * **Week 10**
+       *  **SWBAT**:
+           * implement basic datastructures for interview prep:
+	           * [Vocabularly Building](https://github.com/wdi-sf-july/WDI-vocab)
+	           * Doubly Linked List TDD
+	           * Binary Search Tree TDD
+	           * Trie TDD: Autocomplete Lab
+	       * Factory Girl
+	       * Controller Specs
+	           * Double, Mocks, and Stubs
+	       * SideKiq/Redis
+	       * Coffeescript
+	       * Intro Angular with Rails
+	           * views
+	           * controllers
+	           * modules
+	           * http
+	   * **Common Assessment**:
            * [Hangman](https://github.com/wdi-sf-july/final_weekend_lab)
            * Submission:
            	 * [Hangman](http://jsbin.com/pulutimuwaxo/1/edit)
-   * Week 11:
-       * Datastructure Review
-       * Mock Interviews
-       * More Angular:
-           * angular modules
-           * Router
-           * services
-               * services, factories, providers
-           * resources
-           * custom directives
+   * **Week 11**:
+       *  **SWBAT**:
+	       * discuss and analyze datastructures in review
+	       * practice mock interviews
+	       * do more Angular:
+	           * angular modules
+	           * Router
+	           * services
+	               * services, factories, providers
+	           * resources
+	           * custom directives
       
-  * Week 12:
+  * **Week 12**:
   	* Final Project
   	
 ### Curriculum Questions?
