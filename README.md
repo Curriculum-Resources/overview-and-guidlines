@@ -4,7 +4,7 @@
 
 ### Quick Resources
 
-* [curriculum](./outline.md)
+* [curriculum and course goals](./outline.md)
 * [tools](./tools.md)
 
 ### Previous WDI Courses
