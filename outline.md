@@ -105,6 +105,9 @@ There are three main stages of the course
        	 * Submissions:
        	 	* [Picture It Now](https://github.com/ranleung/picture_it_now)
        	 	* [Globe Tweet](https://github.com/cameronjacoby/globe_tweet)
+     
+     
+
 ========  
      	 	
 ### Week 5: Project 1 Assessment 
