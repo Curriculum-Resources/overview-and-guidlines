@@ -260,9 +260,9 @@ There are three main stages of the course
 	           * services
 	               * services, factories, providers
 	           * resources
-	           * custom directives
+	           * custom directives	           
       
-  * **Week 12**:
+   * **Week 12**:
   	* Final Project
   	
 ### Curriculum Questions?
