@@ -190,10 +190,11 @@ There are three main stages of the course
 	       * utilize templating for dynamically updating content on the client-side
 	       * implement a persistent Todo application Javascript with jQuery
 	   * **Common Assessment**:
-	   		* project 2
+	       * project 2
 	   * **CS Core**:
-	   		* discuss token vs cookie based strategies
-	   		* discuss state in an client-side application
+	       * discuss token vs cookie based strategies
+	       * discuss state in an client-side application
+   
    * **Week 9**
        * Heroku Deployment
        * Project 2 Group 
