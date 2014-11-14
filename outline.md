@@ -30,7 +30,7 @@ There are three main stages of the course
 
 =======
 
-### Week By Week Breakdown
+## Week By Week Breakdown
 
 #### Terms 
 
