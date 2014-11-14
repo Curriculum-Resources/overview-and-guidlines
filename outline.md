@@ -36,7 +36,7 @@ There are three main stages of the course
 
 * **SWBAT**: stands for "Students Will Be Able To."
 * **Common Assessment**: a direct assessment used as a standard across instances of WDI running in parallel.
-* **CS Core**: a technical minimum of problem solving abilities or techniques that should be demostrated by each student.
+* **CS Core**: a technical minimum of problem solving abilities or techniques that should be demonstrated by each student.
 
 
 =======
@@ -49,7 +49,7 @@ There are three main stages of the course
          * demonstrate basic command line familiarity
          * perform basic git and GitHub tasks needed for HW, iterated daily
          * explain and manipulate DOM
-         * develp basic javascript client applications
+         * develop basic javascript client applications
          * identify and employ course tools: package managers, etc
          * use CSS
        * **Common Assessment**:
@@ -114,11 +114,11 @@ There are three main stages of the course
 	* implement authentication and authorization for users and related data
 	* manage simple model associations, database migrations, and validations
 	* utilize an external API and request errors
-	* utilize best practices for project managment
-		* wireframing
+	* utilize best practices for project management
+		* wire-framing
 		* user stories
 		* MVP and Milestone setting
-		* task managment tools
+		* task management tools
 		* application testing
 		* entity relationship diagrams
 		* version control with Git and GitHub
@@ -139,7 +139,7 @@ There are three main stages of the course
 	       * compare and contrast RSpec with Mocha-Chai testing
 	       * intro to Rails MVC application structure
 	       * use an API
-	       * implement and use simple models and commmon ActiveRecord relationships 
+	       * implement and use simple models and common ActiveRecord relationships 
        * **Common Assessment**:
            * open ended client-side projects to encourage research and discovery
            * Submissions:
@@ -163,7 +163,7 @@ There are three main stages of the course
 	       * utilize seed data and factories
 	       * identify and apply RESTful and nested resources in Rails
 	       * utilize partials for modular views and nested views
-	       * application testing with RSPEC or TestUnit
+	       * more application testing with RSPEC or TestUnit
 	          * controller, integration, feature, and Model specs
 	       * discuss and apply authentication in a Rails application
 	       * discuss mailers and password reset
@@ -172,7 +172,7 @@ There are three main stages of the course
 
        * **CS Core**:
            * [More Linked List](https://github.com/wdi-sf-july/singly_linked_list_ruby)
-           * dicuss and apply simple meta-programming in ruby
+           * discuss and apply simple meta-programming in ruby
        
    * **Week 8**:
        *  **SWBAT**:
@@ -207,10 +207,10 @@ There are three main stages of the course
 	* manage multiple model associations, database migrations, and validations
 	* utilize an external API, OAuth, and request errors
 	* utilize background workers and mailers
-	* utilize best practices for project managment
-		* wireframing
+	* utilize best practices for project management
+		* wire-framing
 		* user stories
-		* task managment tools in a team setting
+		* task management tools in a team setting
 		* MVP and Milestones
 		* broader application testing
 		* entity relationship diagrams
@@ -220,17 +220,22 @@ There are three main stages of the course
 	 	
     
 ========
+
+### **Stage 3**: Independence
+
+> Note: this is tenative. Generally single page applications, CS topics, and system design problems are left for this part of the course.
+  
    * **Week 10**
        *  **SWBAT**:
-           * implement basic datastructures for interview prep:
-	           * [Vocabularly Building](https://github.com/wdi-sf-july/WDI-vocab)
+           * implement basic data-structures for interview prep:
+	           * [Vocabulary Building](https://github.com/wdi-sf-july/WDI-vocab)
 	           * Doubly Linked List TDD
 	           * Binary Search Tree TDD
 	           * Trie TDD: Autocomplete Lab
-	       * Factory Girl
-	       * Controller Specs
+	       * Factory Girl and FFaker (if not covered previously)
+	       * Controller Specs (if not covered previously)
 	           * Double, Mocks, and Stubs
-	       * SideKiq/Redis
+	       * SideKiq/Redis (if not covered previously)
 	       * Coffeescript
 	       * Intro Angular with Rails
 	           * views
@@ -243,7 +248,7 @@ There are three main stages of the course
            	 * [Hangman](http://jsbin.com/pulutimuwaxo/1/edit)
    * **Week 11**:
        *  **SWBAT**:
-	       * discuss and analyze datastructures in review
+	       * discuss and analyze data-structures in review
 	       * practice mock interviews
 	       * do more Angular:
 	           * angular modules
