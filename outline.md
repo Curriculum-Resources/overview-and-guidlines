@@ -10,6 +10,9 @@ There are three main stages of the course
 ![stages](images/stages.png)
 
 
+
+### Brief Overview of WDI Stages
+
 * Weeks 1-4
 	* programming fundamentals
 	* web application development
@@ -23,7 +26,10 @@ There are three main stages of the course
     * interview preparation
 		* advanced applications
 		* project time
-		
+
+
+=======
+
 ### Week By Week Breakdown
 
 #### Terms 
@@ -33,11 +39,15 @@ There are three main stages of the course
 * **CS Core**: a technical minimum of problem solving abilities or techniques that should be demostrated by each student.
 
 
+=======
+
+### **Stage 1**: Fundamentals
+
 
    * **Week 1**
        * **SWBAT**:
          * demonstrate basic command line familiarity
-         * perform basic git and GitHub tasks
+         * perform basic git and GitHub tasks needed for HW, iterated daily
          * explain and manipulate DOM
          * develp basic javascript client applications
          * identify and employ course tools: package managers, etc
@@ -80,11 +90,11 @@ There are three main stages of the course
 	       * describe and utilize Sequelize and model relationships
 	           * one-to-one, many-to-one, many-to-many
 	       * describe and implement Authentication and Authorization
-	       		* intro to bcrypt
+	           * intro to bcrypt
 	       * utilize auth tools: passport
 	       * utilize Bootstrap
        * **Common Assessment**:
-       		* None Working on Project 1
+       	   * None Working on Project 1
        * **CS Core**:
            * review
    * **Week 5** (little to no lecturing):
@@ -95,6 +105,31 @@ There are three main stages of the course
        	 * Submissions:
        	 	* [Picture It Now](https://github.com/ranleung/picture_it_now)
        	 	* [Globe Tweet](https://github.com/cameronjacoby/globe_tweet)
+========  
+     	 	
+### Week 5: Project 1 Assessment 
+
+* **SWBAT**: 
+	* implement and adapt CRUD for two resources
+	* implement authentication and authorization for users and related data
+	* manage simple model associations, database migrations, and validations
+	* utilize an external API and request errors
+	* utilize best practices for project managment
+		* wireframing
+		* user stories
+		* MVP and Milestone setting
+		* task managment tools
+		* application testing
+		* entity relationship diagrams
+		* version control with Git and GitHub
+	
+	 	
+    
+========
+
+
+### **Stage 2**: Resourcefulness
+
    * **Week 6**:
        *  **SWBAT**:
        	   * compare and contrast Ruby and Javascript
@@ -120,12 +155,16 @@ There are three main stages of the course
        
    * **Week 7**:
        *  **SWBAT**:
+       	   * review and analyze software practices:
+       	   	 * git strategies: branching vs. rebasing, conflicts etc.
+       	   	 * application design and specification: user stories, wireframes, etc
+       	   	 * pair programming exercises and small team assignments
 	       * implement and use complex ActiveRecord relationships
 	       * utilize seed data and factories
 	       * identify and apply RESTful and nested resources in Rails
 	       * utilize partials for modular views and nested views
-	       * application testing with RSPEC
-	            * Controller and Model specs
+	       * application testing with RSPEC or TestUnit
+	          * controller, integration, feature, and Model specs
 	       * discuss and apply authentication in a Rails application
 	       * discuss mailers and password reset
        * **Common Assessment**:
@@ -137,8 +176,13 @@ There are three main stages of the course
        
    * **Week 8**:
        *  **SWBAT**:
+       	   * review and analyze software practices:
+       	   	 * git strategies: branching vs. rebasing, conflicts etc.
+       	   	 * application design and specification: user stories, wireframes, etc
+       	   	 * pair programming exercises and small team assignments
+       	   * use OAuth and apply login
 	       * implement and discuss a RESTful JSON API in RAILS
-	       		* utilize eager loading 
+	         * utilize eager loading 
 	       * utilize jQuery to retrieve and update data on a server
 	       * utilize templating for dynamically updating content on the client-side
 	       * implement a persistent Todo application Javascript with jQuery
@@ -151,6 +195,31 @@ There are three main stages of the course
        * Heroku Deployment
        * Project 2 Group 
        * Asset pipeline discussion
+       
+ ========  
+     	 	
+### Week 9: Project 2 Assessment 
+
+* **SWBAT**:
+	* research API and application concerns
+	* implement and adapt CRUD for three or more resources
+	* implement authentication and authorization for users and related data
+	* manage multiple model associations, database migrations, and validations
+	* utilize an external API, OAuth, and request errors
+	* utilize background workers and mailers
+	* utilize best practices for project managment
+		* wireframing
+		* user stories
+		* task managment tools in a team setting
+		* MVP and Milestones
+		* broader application testing
+		* entity relationship diagrams
+		* version control with Git and GitHub with multiple contributors
+	
+	
+	 	
+    
+========
    * **Week 10**
        *  **SWBAT**:
            * implement basic datastructures for interview prep:
