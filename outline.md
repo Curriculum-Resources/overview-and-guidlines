@@ -1,7 +1,7 @@
 # Outline
 ## Curriculum
 
-The following is brief attempt at a breakdown of the current curriculum of WDI.
+The following is a brief attempt at a breakdown of the current curriculum of WDI.
 
 ### Stages
 
