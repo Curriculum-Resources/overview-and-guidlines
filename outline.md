@@ -209,7 +209,7 @@ There are three main stages of the course
 	* implement and adapt CRUD for three or more resources
 	* implement authentication and authorization for users and related data
 	* manage multiple model associations, database migrations, and validations
-	* utilize an external API, OAuth, and request errors
+	* utilize an external API, OAuth, and handle request errors
 	* utilize background workers and mailers
 	* utilize best practices for project management
 		* wire-framing
