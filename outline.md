@@ -241,7 +241,7 @@ There are three main stages of the course
 	           * Double, Mocks, and Stubs
 	       * SideKiq/Redis (if not covered previously)
 	       * Coffeescript
-	       * Intro Angular with Rails
+	       * Intro Angular with Rails see [style guide](https://github.com/johnpapa/angularjs-styleguide)
 	           * views
 	           * controllers
 	           * modules
