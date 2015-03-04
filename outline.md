@@ -1,7 +1,7 @@
 # Outline
 ## Curriculum
 
-The following is brief attempt at a breakdown of the current curriculum of WDI.
+The following is a brief attempt at a breakdown of the current WDI curriculum.
 
 ### Stages
 
@@ -209,7 +209,7 @@ There are three main stages of the course
 	* implement and adapt CRUD for three or more resources
 	* implement authentication and authorization for users and related data
 	* manage multiple model associations, database migrations, and validations
-	* utilize an external API, OAuth, and request errors
+	* utilize an external API, OAuth, and handle request errors
 	* utilize background workers and mailers
 	* utilize best practices for project management
 		* wire-framing
@@ -241,7 +241,7 @@ There are three main stages of the course
 	           * Double, Mocks, and Stubs
 	       * SideKiq/Redis (if not covered previously)
 	       * Coffeescript
-	       * Intro Angular with Rails
+	       * Intro Angular with Rails see [style guide](https://github.com/johnpapa/angularjs-styleguide)
 	           * views
 	           * controllers
 	           * modules
